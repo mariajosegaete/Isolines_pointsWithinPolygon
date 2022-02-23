@@ -1,10 +1,12 @@
-# Points Within Isoline Calculator
+# Warehouse Reach Simulator
 
-How many random points are coveres by a 15 minute car isoline?
+Say you have a warehouse located somewhere and you want to evaluate its delivery reach. This simple web app covers 2 points:
+1. How far can I go, by car, in a certain window of time?
+2. How are the deliveries nearby distributed?
 
 ## About this project
 
-An in-depth paragraph about your project and overview of use.
+
 
 ## Getting Started
 
@@ -14,7 +16,3 @@ Getting started.
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
